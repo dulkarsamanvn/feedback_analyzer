@@ -1,0 +1,11 @@
+feedback,sentiments,scores
+The app is very user-friendly!,POSITIVE,0.99
+I love how simple the interface is.,POSITIVE,1.0
+The app crashes often when I try to upload files.,NEGATIVE,1.0
+Logging in takes too long.,NEGATIVE,1.0
+Customer support was very helpful.,POSITIVE,1.0
+The design feels outdated.,NEGATIVE,1.0
+Payment process was smooth and easy.,POSITIVE,1.0
+I faced issues while resetting my password.,NEGATIVE,1.0
+The app loads really fast!,POSITIVE,0.98
+Notifications are too frequent and annoying.,NEGATIVE,1.0
